@@ -11,3 +11,6 @@ Interesse em back-end.
 
 ## Top Langs
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abspiller&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+![octocat-1709822855730](https://github.com/user-attachments/assets/33670d56-4c91-4521-89c7-f267613b8e6d)
